@@ -1,0 +1,15 @@
+executor:
+  source:
+    - arxiv
+
+keywords: '"enzymatic hydrolysis" OR "allergenicity reduction" OR "bioactive peptides"'
+categories: q-bio.BM+q-bio.CB+q-bio.MN
+
+smtp_server: smtp.qq.com
+smtp_port: 465
+sender: abc@qq.com
+sender_password: xxxxxxxxxx
+receiver: abc@qq.com
+
+use_llm_api: 0
+send_empty: false
