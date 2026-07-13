@@ -1,4 +1,6 @@
 defaults:
   - base
   - custom
+  - _self_
+
 source: ['arxiv']
