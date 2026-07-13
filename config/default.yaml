@@ -1,4 +1,4 @@
 defaults:
   - base
   - custom
-  source: ['arxiv']
+source: ['arxiv']
